@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = vera.montacuti@gmail.com
+	name = Vera Montacuti
